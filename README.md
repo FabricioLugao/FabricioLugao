@@ -25,4 +25,6 @@ A maioria dos repositórios nos quais colaborei no ambiente corporativo são pri
 - [📌 API ListaDesejos](https://github.com/FabricioLugao/ListaDesejos) - Web API desenvolvida utilizando .net 7
 #
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciolugao/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciolugao/) 
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioLugao&custom_title=Most%20Used%20Languages%20(public)&show_icons=true&layout=donut&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
